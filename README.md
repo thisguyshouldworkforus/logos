@@ -19,3 +19,9 @@
 [![logo](https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/ansible.svg)](https://www.ansible.com/)  
 
 
+## Python Logo
+
+[![Creative Commons License](https://img.shields.io/badge/Creative%20Commons-CC0-orange)](https://www.python.org/psf/trademarks/#uses-that-never-require-approval)  
+
+[![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/480px-Python-logo-notext.svg.png)](https://www.python.org/)  
+
