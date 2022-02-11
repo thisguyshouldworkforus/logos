@@ -25,3 +25,9 @@
 
 [![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/480px-Python-logo-notext.svg.png)](https://www.python.org/)  
 
+## Tamper Monkey Logo
+
+[![Creative Commons License](https://img.shields.io/badge/Creative%20Commons-CC0-orange)](https://www.python.org/psf/trademarks/#uses-that-never-require-approval)  
+
+[![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tampermonkey_logo.svg/480px-Tampermonkey_logo.svg.png)](https://www.tampermonkey.net/)  
+
