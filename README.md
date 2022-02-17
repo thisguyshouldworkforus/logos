@@ -31,3 +31,7 @@
 
 [![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tampermonkey_logo.svg/480px-Tampermonkey_logo.svg.png)](https://www.tampermonkey.net/)  
 
+## PowerShell Logo
+[![Fair Use](https://img.shields.io/badge/Fair%20Use-orange)](https://en.wikipedia.org/wiki/Fair_use)  
+
+[![logo](https://www.learningkoala.com/media/posts/21/responsive/PowerShell_Black_Logo_600x600-lg.png)](https://www.microsoft.com/)  
